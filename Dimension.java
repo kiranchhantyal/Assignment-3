@@ -85,7 +85,7 @@ vert = v;
 	{
       	trace("setHoriz: setHoriz starts");
 
-//COMPLETE ME!
+horiz = h;
 
       	trace("setHoriz: setHoriz ends");
 	}
