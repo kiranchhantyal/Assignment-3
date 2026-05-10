@@ -64,7 +64,7 @@ public class Dimension implements DimensionInterface
 	{
       	trace("setVert: setVert starts");
 
-//COMPLETE ME!
+vert = v;
 
       	trace("setVert: setVert ends");
 	}
