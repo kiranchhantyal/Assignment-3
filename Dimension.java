@@ -2,7 +2,7 @@
 /**
  *	Dimension ADT
  *
- *	@author << Student Names and IDs >>
+ *	@author Kiran Chhantyal(770872)
  *	@version << Date of Completion >>
  *	
  *	This file holds the Dimension ADT which represents
@@ -42,7 +42,8 @@ public class Dimension implements DimensionInterface
 	{
       	trace("Dimension: Constructor starts");
 
-//COMPLETE ME!
+	vert = v;
+	horiz = h;
 
       	trace("Dimension: Constructor ends");
 	}
