@@ -82,7 +82,7 @@ public class Location implements LocationInterface, Cloneable
 	{
       	trace("setColumn: setColumn starts");
 
-//COMPLETE ME
+	column = c;
 
       	trace("setColumn: setColumn ends");
 	}
