@@ -106,8 +106,7 @@ horiz = h;
 	{
       	trace("getVert: getVert starts and ends");
 
-//COMPLETE ME
-		return 0;	// CHANGE ME
+    return vert;
 	}
 	
 	
