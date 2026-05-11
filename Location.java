@@ -61,8 +61,7 @@ public class Location implements LocationInterface, Cloneable
 	public void setRow(int r)
 	{
       	trace("setRow: setRow starts");
-
-//COMPLETE ME
+		row = r;
 
       	trace("setRow: setRow ends");
 	}
