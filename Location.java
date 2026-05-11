@@ -40,7 +40,8 @@ public class Location implements LocationInterface, Cloneable
 	{
       	trace("Location: Constructor starts");
 
-//COMPLETE ME
+	row = r;
+	column = c;
 
       	trace("Location: Constructor ends");
 	}
