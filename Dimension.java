@@ -124,8 +124,7 @@ horiz = h;
 	{
       	trace("getHoriz: getHoriz starts and ends");
 
-//COMPLETE ME
-		return 0;	// CHANGE ME
+		return horiz;
 	}
 
 
