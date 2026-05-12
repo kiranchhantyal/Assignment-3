@@ -144,10 +144,10 @@ public class Location implements LocationInterface, Cloneable
 		
       	trace("clone: clone starts");
 
-//COMPLETE ME!
+l = new Location(row, column);
 
       	trace("clone: clone ends");
-		return null;  // CHANGE ME
+		return l;
 	}
 	
 	
