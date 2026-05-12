@@ -123,8 +123,8 @@ public class Location implements LocationInterface, Cloneable
 	{
       	trace("getColumn: getColumn starts and ends");
 
-//COMPLETE ME
-		return 0;	// CHANGE ME
+
+		return  column;
 	}
 	
 	
