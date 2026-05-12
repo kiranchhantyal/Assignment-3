@@ -103,8 +103,8 @@ public class Location implements LocationInterface, Cloneable
 	{
       	trace("getRow: getRow starts and ends");
 
-//COMPLETE ME
-		return 0;	// CHANGE ME
+
+		return row;
 	}
 	
 	
