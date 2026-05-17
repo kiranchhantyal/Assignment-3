@@ -77,18 +77,19 @@ public class Square implements SquareInterface, Cloneable
 	 * @param n the number of that square
 	*/
 	public Square(Location l,int n)
-	{
-      	trace("Square: Constructor starts");
-		loc = l;
-		colour = Color.WHITE;
-		wall = false;
-		visited = false;
-		start = false;
-		stop = false;
-		number = n;
+{
+    trace("Square: Constructor starts");
 
-		trace("Square: Constructor ends");
-	}
+    loc = l;
+    colour = Color.WHITE;
+    wall = false;
+    visited = false;
+    start = false;
+    stop = false;
+    number = n;
+
+    trace("Square: Constructor ends");
+}
 
 
 	/**
