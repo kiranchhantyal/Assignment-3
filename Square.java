@@ -76,7 +76,8 @@ public class Square implements SquareInterface, Cloneable
 	 * @param l the starting location on the maze
 	 * @param n the number of that square
 	*/
-	public Square(Location l,int n)
+	
+public Square(Location l,int n)
 {
     trace("Square: Constructor starts");
 
