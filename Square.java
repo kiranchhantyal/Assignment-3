@@ -155,10 +155,14 @@ public Square(Location l,int n)
 
 		trace("clone: clone starts");
 
-// COMPLETE ME
+		s = new Square((Location)loc.clone(), start, stop, number);
+		s.setColour(colour);
+		s.solidWall(wall);
+		s.occupied(visited);
+
 
       	trace("clone: clone ends");
-		return null;	// CHANGE ME
+		return s;
 	}
 
 
