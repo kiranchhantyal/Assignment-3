@@ -316,8 +316,8 @@ public Square(Location l,int n)
 	{
       	trace("isOccupied: isOccupied starts and ends");
 
-//COMPLETE ME
-		return false;	// CHANGE ME
+
+		return visited;	
 	}
 
 
