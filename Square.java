@@ -2,7 +2,7 @@
 /**
  *	Square ADT
  *
- *	@author << Student Names and IDs >>
+ *	@author Kiran Chhantyal(770872)
  *	@version << Date of Completion >>
  *
  *	This file holds the Square ADT which represents
